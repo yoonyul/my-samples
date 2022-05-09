@@ -1,0 +1,1 @@
+from gcr.io/knative-samples/helloworld-go

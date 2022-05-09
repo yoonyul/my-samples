@@ -1,0 +1,1 @@
+from docker.io/modassarrana/testhelloworld-python
